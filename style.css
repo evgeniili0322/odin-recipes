@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.title {
+  font-family: "Nunito Sans",Trebuchet MS,sans-serif;
+  font-size: 48px;
+  margin-left: 0;
+}
+
+.title,
+.recipes {
+  margin-left: 48px;
+}
+
+.recipe-page {
+  font-family: "Nunito Sans",Trebuchet MS,sans-serif;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.recipe-title,
+.recipes {
+  font-size: 32px;
+}
+
+.sub-title {
+  font-size: 24px;
+}
